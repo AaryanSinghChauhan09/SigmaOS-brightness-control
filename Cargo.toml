@@ -2,6 +2,8 @@
 name = "sigmaos_brightness_control"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "SigmaOS brightness-control component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
 name = "sigmaos_brightness_control"
